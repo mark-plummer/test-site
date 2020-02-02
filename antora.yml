@@ -1,0 +1,7 @@
+name: 4.5
+title: 4.5
+version: 4.5
+start_page: index.html
+nav:
+- modules/end-user/nav.adoc
+- modules/release/nav.adoc
