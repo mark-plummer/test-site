@@ -7,7 +7,7 @@ content:
   sources:
   # embedding empty credentials in the URL disables the Edit this Page link for any page created from this repository
   - url: https://github.com/mark-plummer/test-site.git
-    branches: 4.5
+    branches: [4.5]
     start_path: 4.5
 ui:
   bundle:
