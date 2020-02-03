@@ -1,7 +1,7 @@
-name: documentation
-title: documentation
-version: master
+name: test-site
+title: test-site
+version: dev
 nav:
 - modules/ROOT/nav.adoc
-- modules/end-user/nav.adoc
 - modules/release/nav.adoc
+- modules/end-user/nav.adoc
