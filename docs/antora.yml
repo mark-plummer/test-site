@@ -1,7 +1,8 @@
-name: 4.5
-title: 4.5
-version: 4.5
-start_page: index.html
+name: documentation
+title: documentation
+version: master
+start_page: index.adoc
 nav:
+- modules/ROOT/nav.adoc
 - modules/end-user/nav.adoc
 - modules/release/nav.adoc
