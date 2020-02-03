@@ -1,7 +1,7 @@
 name: documentation
 title: documentation
 version: master
-start_page: index.adoc
+start_page: test-site::index.adoc
 nav:
 - modules/ROOT/nav.adoc
 - modules/end-user/nav.adoc
