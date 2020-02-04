@@ -1,13 +1,13 @@
 site:
-  title: Antora ThoughtSpot Demo Site
+  title: ThoughtSpot Documentation
   # the 404 page and sitemap files only get generated when the url property is set
   url: https://docs.thoughtspot.com
-  start_page: index.adoc
+  start_page: ROOT::index.adoc
 content:
   sources:
   # embedding empty credentials in the URL disables the Edit this Page link for any page created from this repository
   - url: git@github.com:mark-plummer/test-site.git
-    branches: [4.5]
+    branches: master
     start_path: docs
 ui:
   bundle:
