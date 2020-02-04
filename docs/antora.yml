@@ -1,5 +1,5 @@
 name: test-site
-version: dev
+version: 4.5
 title: ThoughtSpot Documentation
 nav:
 - modules/ROOT/nav.adoc
