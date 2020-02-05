@@ -3,5 +3,3 @@ version: dev
 title: ThoughtSpot Documentation
 nav:
 - modules/ROOT/nav.adoc
-- modules/end-user/nav.adoc
-- modules/release/nav.adoc
